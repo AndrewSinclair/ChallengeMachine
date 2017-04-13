@@ -1,0 +1,5 @@
+C:\Programs\TestPrograms\ascript\ascript\bin\Debug\ascript.exe
+C:\Programs\TestPrograms\ascript\ascript\bin\Debug\ascript.pdb
+C:\Programs\TestPrograms\ascript\ascript\obj\Debug\ascript.csprojResolveAssemblyReference.cache
+C:\Programs\TestPrograms\ascript\ascript\obj\Debug\ascript.exe
+C:\Programs\TestPrograms\ascript\ascript\obj\Debug\ascript.pdb
